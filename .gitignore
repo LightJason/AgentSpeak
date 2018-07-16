@@ -1,0 +1,6 @@
+*.*
+!.gitignore
+!CNAME
+!*.md
+!*.g4
+
