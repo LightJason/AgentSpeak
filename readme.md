@@ -1,4 +1,4 @@
 ---
 permalink: "/"
-redirect_to: "https://loghtjason.org/"
+redirect_to: "https://lightjason.org/"
 ---
