@@ -49,7 +49,7 @@ plan :
     plantrigger
     literal
     plandefinition+
-    DOT
+    ( DOT | SEMICOLON )
     ;
 
 /**
@@ -74,7 +74,7 @@ plandefinition :
 logicrule :
     literal
     ( RULEOPERATOR body )+
-    DOT
+    ( DOT | SEMICOLON )
     ;
 
 /**
