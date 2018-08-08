@@ -3,3 +3,5 @@
 !*.md
 !*.g4
 
+org/lightjason/agentspeak/grammar/AgentSpeak.g4
+org/lightjason/agentspeak/grammar/Terminal.g4
